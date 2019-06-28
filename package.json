@@ -1,5 +1,5 @@
 {
-  "name": "Calculator",
+  "name": "ReactJS Project Setup",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "webpack-dev-server --content-base Src/ --inline --hot --history-api-fallback"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vinayak Grover",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.6",
