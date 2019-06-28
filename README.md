@@ -1,5 +1,2 @@
-This Repository is for Project Setup in ReactJS.
-
-1. First Clone this Repository in your desktop.
-   https://github.com/grovervinayak/ReactJS-Project-Setup.git
-   
+# ReactJS-Basic-Calculator
+This repository is for the ReactJS Basic Tutorial Project in which I have made a Basic Calculator.
